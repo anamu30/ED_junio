@@ -6,6 +6,8 @@ public class Subtitulos {
   public String idioma;
 
   public String autor;
+  
+  public String serie;
 
     
 
